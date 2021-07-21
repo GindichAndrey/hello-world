@@ -1,2 +1,3 @@
 # hello-world
-this is my second attempt to use github
+
+Типа вторая попытка использовать github
